@@ -27,7 +27,7 @@ a:hover{
 header{
     background-color: #1263b4;
     color: white;
-    padding: 20px;
+    padding: 55px;
     text-align: center;
     font-size: 26px;
     font-family:arial, Helvetica, sans-serif;
@@ -51,7 +51,7 @@ header{
 h3{
     line-height: 1;
 }
-#conteudo{
+#conteudo_oque_e{
     padding: 10px;
     margin:auto;
     margin-top: 20px;
@@ -63,7 +63,7 @@ h3{
     border-radius: 10px;
     border: 2px solid #333;
 }
-ol{
+ul{
     margin-left: 20px;
     background-color: #f0f0f0;
 }
