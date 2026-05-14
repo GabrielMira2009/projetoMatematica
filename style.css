@@ -67,3 +67,27 @@ ul{
     margin-left: 20px;
     background-color: #f0f0f0;
 }
+li{
+    padding: 5px;
+    margin-bottom: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ol{
+    margin-left: 20px;
+    margin:20px;
+    padding: 10px;
+}
+#conteudo_nome{
+    background-color: #d8d6d6;
+    border-radius: 10px;
+    padding: 10px;
+    margin:auto;
+    margin-top: 20px;
+    font-size: 25px;
+    width: 80%;
+}
+.img-conteudo{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
