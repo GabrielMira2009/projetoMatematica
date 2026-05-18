@@ -92,9 +92,10 @@ ol{
     margin-top: 10px;
 }
 @media screen and (max-width: 768px) {
-    header {
+    #navegacao {
         flex-direction: column;
-        padding: 20px;
+        height: 60px;
+        border: 1px solid black;
     }
     #img-header {
         width: 100%;
