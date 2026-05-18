@@ -50,6 +50,7 @@ header{
 
 h3{
     line-height: 1;
+    background-color: #f0f0f0;
 }
 #conteudo_oque_e{
     padding: 10px;
@@ -62,10 +63,6 @@ h3{
     background-color: #d8d6d6;
     border-radius: 10px;
     border: 2px solid #333;
-}
-ul{
-    margin-left: 20px;
-    background-color: #f0f0f0;
 }
 li{
     padding: 5px;
@@ -94,9 +91,19 @@ ol{
 @media screen and (max-width: 768px) {
     #navegacao {
         flex-direction: column;
-        height: 80px;
+        gap: 10px;
+        height: auto;
         border: 1px solid black;
     }
+    a{
+        border: 1px solid black;
+        padding: 5px;
+        display: flex;
+        width: 90%;
+        flex-direction: column;
+        align-items: center;
+    }
+    a.hover`{}
     #img-header {
         width: 100%;
         height: auto;
