@@ -91,3 +91,13 @@ ol{
     height: auto;
     margin-top: 10px;
 }
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+    #img-header {
+        width: 100%;
+        height: auto;
+    }
+    
+}
