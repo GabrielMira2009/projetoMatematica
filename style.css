@@ -94,7 +94,7 @@ ol{
 @media screen and (max-width: 768px) {
     #navegacao {
         flex-direction: column;
-        height: 60px;
+        height: 80px;
         border: 1px solid black;
     }
     #img-header {
